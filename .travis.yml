@@ -5,7 +5,7 @@ none_js:
 
 branches:
   only:
-    -master
+    -travis
 addons:
     chrome: stable
 
